@@ -1,0 +1,5 @@
+echo "Hii ammu gud eve"
+echo "enime nan dailyum time ah nalla use pannikanum ammu"
+echo "naraya padikanum naraya kathukanum"
+echo "sikrama devops engineer aganum"
+echo "tanq and bye ammu"
