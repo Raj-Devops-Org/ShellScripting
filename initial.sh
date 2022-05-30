@@ -2,10 +2,10 @@
 #this is about Rajkumar 
 echo Hey, this is Raj Kumar
 echo I am father of Mithansh
-<<COMMANT
+<<COMMENT
 Debugg mode started
 debugg mode will end @ set+x
-COMMANT
+COMMENT
 set -x
 echo I am an awesome husband of Hema
 set +x
